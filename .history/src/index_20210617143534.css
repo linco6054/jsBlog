@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  min-height: 100%;
+}
+body {
+  font-family: sans-serif;
+  background-color: #95e8f3;
+  min-height: 100%;
+}
